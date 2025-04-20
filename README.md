@@ -1,1 +1,2 @@
 # Raw-Data-to-Retail-Intelligence-A-Python-based-Exploratory-Data-Analysis-EDA-
+Raw Data to Retail Intelligence: A Python-based Exploratory Data Analysis (EDA) is a project designed to empower retailers to transform unstructured, raw data into actionable business insights. Leveraging Python’s robust data analysis libraries, the project guides users through the entire EDA process—from data collection and cleaning to visualization and interpretation.
